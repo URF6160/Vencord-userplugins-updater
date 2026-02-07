@@ -20,7 +20,7 @@ A simple, fast Windows batch script to update all your Vencord user plugins
 ### Requirements
 - Windows
 - [Git installed and available in PATH](https://git-scm.com/install/)
-- Vencord installed (obviously)
+- Vencord installed and must have userplugins folder (obviously)
 
 ### How to use
 1. Download the script (save as `vencord-plugins-updater.bat`)
