@@ -10,18 +10,16 @@ A simple, fast Windows batch script to update all your Vencord user plugins
 - Shows clear output for each folder with Git's own messages
 - At the end, gives a clean summary:
   - How many Git plugins were checked
-  - How many actually received updates (or "all already up to date")
+  - How many actually received updates
   - How many folders were skipped (not Git repos)
 
 ### Why use this?
 - No need to manually open each plugin folder and run `git pull`
-- Safe — skips anything that's not a Git repo.
-- Fast and lightweight (pure batch, no extra tools needed)
 - Perfect for users with many Vencord plugins
 
 ### Requirements
 - Windows
-- Git installed and available in PATH
+- [Git installed and available in PATH](https://git-scm.com/install/)
 - Vencord installed (obviously)
 
 ### How to use
@@ -32,7 +30,7 @@ A simple, fast Windows batch script to update all your Vencord user plugins
 
 That's it!
 
-Feel free to contribute if you have improvements!
+Feel free to contribute if you have improvements!!!!!
 
 Made for Vencord community :)
 
