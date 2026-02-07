@@ -37,3 +37,7 @@ Feel free to contribute if you have improvements!
 Made for the Vencord community :)
 
 ### Example output
+
+https://github.com/user-attachments/assets/a4f02406-de4b-4f8e-8216-dbddc1c6995f
+
+
